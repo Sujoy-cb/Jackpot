@@ -1,0 +1,1581 @@
+@media (min-width:320px) and (max-width:575px) {
+    .title h3{
+        font-size: 35px;
+    }
+    /* -----------------
+    nav res css start
+    ----------------- */
+    nav{
+        z-index: 9999;
+    }
+    nav img{
+        width: 70%;
+        margin-left: 20px;
+    }
+    nav button i{
+        color: #f6a100;
+        border: 2px solid #f6a100;
+        padding: 8px;
+        border-radius: 5px;
+    }
+    nav ul{
+        background: #25024d;
+        margin-top: 15px;
+        height: 60vh;
+    }
+    nav ul li{
+        margin-right: 0;
+    }
+    nav ul li a{
+        margin-top: 5px;
+    }
+    nav .buttons{
+        position: relative;
+    }
+    nav .buttons a{
+        position: absolute;
+        bottom: 26px;
+        left: 50%;
+    }
+    nav .buttons .btn2{
+        position: absolute;
+        bottom: 26px;
+        left: 20px;
+    }
+/* -----------------
+    nav res css end
+    ----------------- */
+
+    /* -----------------
+    banner res css start
+    ------------------- */
+    #banner-part .img{
+        display: none;
+    }
+    #banner-part .text{
+        width: auto;
+        text-align: center;
+    }
+    #banner-part .text h5{
+        margin-bottom: -15px;
+        margin-top: -20px ;
+    }
+    #banner-part .text h1{
+        font-size: 200px;
+    }
+    #banner-part .text p{
+        width: auto;
+        margin-top: 0;
+    }
+    #banner-part .text a{
+        margin-right: 0;
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    /* -----------------
+    banner res css end
+    ----------------- */
+
+
+     /* -----------------
+    related res css start
+    ----------------- */
+    #related-part .item{
+        width: 85%;
+        margin-left: 25px;
+        margin-top: 20px;
+        clip-path: none;
+    }
+    #related-part .item2{
+        margin-bottom: 20px;
+    }
+    #related-part .img{
+        margin-bottom: 30px;
+        width: 90%;
+        margin-left: 15px;
+    }
+    #related-part .img .overlay h3{
+        font-size: 20px;
+    }
+    #related-part .img .overlay a{
+            font-size: 15px;
+            padding: 10px 25px;
+    }
+     /* -----------------
+    related res css end
+    ----------------- */
+
+
+    /* -----------------
+    spin res css start
+    ----------------- */
+    #spin-part{
+        padding: 100px 0;
+    }
+    #spin-part .title{
+        text-align: center;
+    }
+    #spin-part .text p{
+        text-align: center;
+        width: auto;
+    }
+    #spin-part .text a{
+        font-size: 15px;
+        padding: 10px 20px;
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /* -----------------
+    spin res css end
+    ----------------- */
+
+
+    /* -----------------
+    card res css start
+    ----------------- */
+    #cardeffect-part{
+        padding-bottom: 130px;
+    }
+    #cardeffect-part .title{
+        text-align: center;
+    }
+    #cardeffect-part .text p{
+        width: auto;
+        text-align: center;
+    }
+    #cardeffect-part .text a{
+        font-size: 15px;
+        padding: 10px 20px;
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #cardeffect-part .box .playcard{
+        width: 95%;
+        height: 95%;
+        position: absolute;
+        top: 25%;
+        left: 25%;
+    }
+    /* -----------------
+    card res css end
+    ----------------- */
+
+    /* -----------------
+    price res css start
+    ----------------- */
+    #pricing-part .plan-item{
+        margin-top: 75px;
+        margin-left: 15px;
+        width: 90%;
+    }
+    #pricing-part .plan-item .head{
+        font-size: 15px;
+        padding: 10px 0;
+        
+    }
+    #pricing-part .plan-item .top{
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+    #pricing-part .plan-item .top h3{
+        font-size: 25px;
+    }
+    #pricing-part .plan-item .top h4{
+        font-size: 40px;
+        margin-top: 0;
+    }
+    #pricing-part .plan-item .top p{
+        font-size: 13px;
+    }
+    #pricing-part .plan-item .bottom{
+        padding-bottom: 40px;
+    }
+    #pricing-part .plan-item .bottom ul li{
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    #pricing-part .plan-item .bottom a{
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    /* -----------------
+    price res css end
+    ----------------- */
+
+
+    /* --------------------
+    boot-part res css start
+    ---------------------- */
+    #boot-part .left .title h3{
+        font-size: 25px;
+        margin-left: 15px;
+    }
+    #boot-part .acordian-part .card{
+        border: none;
+    }
+    #boot-part .acordian-part .accordion .card button h4{
+        font-size: 13px;
+    }
+    #boot-part .acordian-part .card button h4 i{
+        margin-left: 150px;
+    }
+    #boot-part .acordian-part .card button h4 .d2{
+        margin-left: 91px;
+    }
+    #boot-part .acordian-part .card button h4 .d3{
+        margin-left: 150px;
+    }
+    #boot-part .right .title h3{
+        font-size: 25px;
+        
+    }
+    #boot-part .right::before{
+        top: 7%;
+    }
+    #boot-part .right .counter-part h5{
+        font-size: 18px;
+        position: absolute;
+        top: 38px;
+        left: 0;
+    }
+    #boot-part .right .counter-part .count .time{
+        font-size: 18px;
+        padding: 15px;
+        margin: 20px 5px 0 5px;
+        
+    }
+    #boot-part .right .scroll-part p{
+        font-size: 13px;
+    }
+    #boot-part .right .scroll-part .img{
+        margin-left: 50px;
+        margin-top: -17px;
+    }
+    #boot-part .right .scroll-part .doller p{
+        margin-top: -18px;
+    }
+    /* --------------------
+    boot-part res css end
+    ---------------------- */
+
+    /* --------------------
+    form-part res css start
+    ---------------------- */
+    #form-part h3{
+        margin-left: 0;
+        font-size: 28px;
+    }
+    #form-part form .mail{
+        width: 100%;
+        padding: 5px 0 5px 10px;
+    }
+    #form-part form i{
+        top: 64px;
+        right: 10px;
+    }
+    #form-part form a::after{
+        top: 55px;
+        right: 34px;
+        height: 39%;
+    }
+    #form-part .right .margin{
+        padding: 0;
+    }
+    #form-part .img .pay{
+        margin-left: 5px;
+    }
+    #form-part .img img{
+        margin-left: 5px;
+    }
+    /* --------------------
+    form-part res css end
+    ---------------------- */
+
+    /* -----------------------
+    footer-part res css start
+    ------------------------- */
+    #footer-part .about .text h3{
+        font-size: 30px;
+    }
+    #footer-part .about .text p{
+        width: auto;
+    }
+    #footer-part .about .icons i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    #footer-part .links .link h3{
+        font-size: 28px;
+        margin-left: -40px;
+        margin-top: 20px;
+    }
+    #footer-part .links .link .side{
+        flex-direction: column;
+        margin-left: -38px;
+    }
+    #footer-part .links .link .side .secound{
+        margin-left: 0;
+        margin-top: -15px;
+    }
+    #footer-part .links .link .side ul li{
+        margin-top: 15px;
+    }
+    #footer-part .security .secu h3{
+        font-size: 30px;
+    }
+
+    /* -----------------------
+    footer-part res css end
+    ------------------------ */
+
+    /* -----------------------
+    copy-part res css start
+    ------------------------ */
+    #copy-right h4{
+        font-size: 15px;
+    }
+
+
+    /* -----------------------
+    copy-part res css end
+    ------------------------ */
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .title h3{
+        font-size: 30px;
+    }
+    /* -----------------
+    nav res css start
+    ----------------- */
+    nav{
+        z-index: 9999;
+    }
+    nav img{
+        width: 70%;
+        margin-left: 20px;
+    }
+    nav button i{
+        color: #f6a100;
+        border: 2px solid #f6a100;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    nav ul{
+        background: #25024d;
+        margin-top: 15px;
+        height: 60vh;
+    }
+    nav ul li{
+        margin-right: 0;
+    }
+    nav ul li a{
+        margin-top: 5px;
+    }
+    nav .buttons{
+        position: relative;
+    }
+    nav .buttons a{
+        position: absolute;
+        bottom: 26px;
+        left: 50%;
+    }
+    nav .buttons .btn1{
+        margin-left: 115px;
+    }
+    nav .buttons .btn2{
+        position: absolute;
+        bottom: 26px;
+        left: 65px;
+    }
+/* -----------------
+    nav res css end
+    ----------------- */
+
+    /* -----------------
+    banner res css start
+    ------------------- */
+    #banner-part .img{
+        display: none;
+    }
+    #banner-part .text{
+        width: auto;
+        text-align: center;
+    }
+    #banner-part .text h5{
+        margin-bottom: -15px;
+        margin-top: -20px ;
+    }
+    #banner-part .text h1{
+        font-size: 300px;
+    }
+    #banner-part .text p{
+        width: auto;
+        margin-top: 0;
+    }
+    #banner-part .text a{
+        margin-right: 0;
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    /* -----------------
+    banner res css end
+    ----------------- */
+
+
+     /* -----------------
+    related res css start
+    ----------------- */
+    #related-part .top .right{
+        margin-top: -20px;
+    }
+    #related-part .item{
+        width: 85%;
+        margin-left: 40px;
+        margin-top: 20px;
+        clip-path: none;
+    }
+    #related-part .item2{
+        margin-bottom: 20px;
+    }
+    #related-part .img{
+        margin-bottom: 30px;
+        width: 90%;
+        margin-left: 15px;
+    }
+    #related-part .img .overlay h3{
+        font-size: 20px;
+    }
+    #related-part .img .overlay a{
+            font-size: 15px;
+            padding: 10px 25px;
+    }
+    #related-part .extra{
+        display: block;
+    }
+     /* -----------------
+    related res css end
+    ----------------- */
+
+
+    /* -----------------
+    spin res css start
+    ----------------- */
+    #spin-part{
+        padding: 60px 0;
+    }
+    #spin-part .title{
+        text-align: center;
+    }
+    #spin-part .spin{
+        display: none;
+    }
+    #spin-part .spin .title h3{
+        display: none;
+    }
+    #spin-part .small{
+        display: block;
+    }
+    #spin-part .small .title h3{
+        margin-bottom: 20px;
+    }
+    
+    #spin-part .spin .text p{
+        display: none;
+    }
+    #spin-part .small .text{
+        margin-top: -50px;
+    }
+    #spin-part .small .text p{
+        text-align: center;
+        width: auto;
+        display: block;
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    #spin-part .spin .text a{
+        display: none;
+    }
+    #spin-part .small .text a{
+        font-size: 15px;
+        padding: 10px 20px;
+        position: absolute;
+        bottom: 25px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+    /* -----------------
+    spin res css end
+    ----------------- */
+
+
+    /* -----------------
+    card res css start
+    ----------------- */
+    #cardeffect-part{
+        padding-top: 60px;
+        padding-bottom: 100px;
+    }
+    #cardeffect-part .title{
+        text-align: center;
+    }
+    #cardeffect-part .title h3{
+        margin-bottom: 30px;
+    }
+    #cardeffect-part .text p{
+        width: auto;
+        text-align: center;
+        display: none;
+    }
+    #cardeffect-part .text a{
+        font-size: 15px;
+        padding: 10px 20px;
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: none;
+    }
+    #cardeffect-part .box .playcard{
+        width: 95%;
+        height: 95%;
+        position: absolute;
+        top: 10%;
+        left: 80%;
+    }
+    /* -----------------
+    card res css end
+    ----------------- */
+
+    /* -----------------
+    price res css start
+    ----------------- */
+    #pricing-part{
+        padding: 70px 0;
+    }
+    #pricing-part .title h3{
+        margin-bottom: -10px;
+    }
+    #pricing-part .plan-item{
+        margin-top: 75px;
+        margin-left: 15px;
+        width: 90%;
+    }
+    #pricing-part .plan-item .head{
+        font-size: 15px;
+        padding: 10px 0;
+        
+    }
+    #pricing-part .plan-item .top{
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+    #pricing-part .plan-item .top h3{
+        font-size: 25px;
+    }
+    #pricing-part .plan-item .top h4{
+        font-size: 40px;
+        margin-top: 0;
+    }
+    #pricing-part .plan-item .top p{
+        font-size: 13px;
+    }
+    #pricing-part .plan-item .bottom{
+        padding-bottom: 20px;
+    }
+    #pricing-part .plan-item .bottom ul li{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    #pricing-part .plan-item .bottom a{
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    #pricing-part .ja{
+        display: block;
+    }
+    /* -----------------
+    price res css end
+    ----------------- */
+
+
+    /* --------------------
+    boot-part res css start
+    ---------------------- */
+    #boot-part .left .title h3{
+        font-size: 25px;
+        margin-left: 15px;
+    }
+    #boot-part .acordian-part .card{
+        border: none;
+    }
+    #boot-part .acordian-part .accordion .card button h4{
+        font-size: 13px;
+    }
+    #boot-part .acordian-part .card button h4 i{
+        margin-left: 150px;
+    }
+    #boot-part .acordian-part .card button h4 .d2{
+        margin-left: 91px;
+    }
+    #boot-part .acordian-part .card button h4 .d3{
+        margin-left: 178px;
+    }
+    #boot-part .acordian-part .card p{
+        font-size: 14px;
+        width: auto;
+    }
+    #boot-part .left::before{
+        left: 3%;
+    }
+    #boot-part .right .title h3{
+        font-size: 25px;
+        
+    }
+    #boot-part .right::before{
+        top: 7%;
+    }
+    #boot-part .right .counter-part h5{
+        font-size: 18px;
+        position: absolute;
+        top: 38px;
+        left: 0;
+    }
+    #boot-part .right .counter-part .count .time{
+        font-size: 18px;
+        padding: 15px;
+        margin: 20px 20px 0 5px;
+        
+    }
+    #boot-part .right .scroll-part p{
+        font-size: 13px;
+    }
+    #boot-part .right .scroll-part .img{
+        margin-left: 50px;
+        margin-top: -17px;
+    }
+    #boot-part .right .scroll-part .doller p{
+        margin-top: -18px;
+    }
+    /* --------------------
+    boot-part res css end
+    ---------------------- */
+
+    /* --------------------
+    form-part res css start
+    ---------------------- */
+    #form-part h3{
+        margin-left: 0;
+        font-size: 28px;
+    }
+    #form-part form .mail{
+        width: 100%;
+        padding: 5px 0 5px 10px;
+    }
+    #form-part form i{
+        top: 64px;
+        right: 10px;
+    }
+    #form-part form a::after{
+        top: 55px;
+        right: 34px;
+        height: 39%;
+    }
+    #form-part .right .margin{
+        padding: 0;
+    }
+    #form-part .img .pay{
+        margin-left: 5px;
+    }
+    #form-part .img img{
+        margin-left: 20px;
+    }
+    /* --------------------
+    form-part res css end
+    ---------------------- */
+
+    /* -----------------------
+    footer-part res css start
+    ------------------------- */
+    #footer-part .about .text h3{
+        font-size: 30px;
+    }
+    #footer-part .about .text p{
+        width: 94%;
+    }
+    #footer-part .about .icons i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    #footer-part .links .link h3{
+        font-size: 28px;
+        margin-left: -40px;
+        margin-top: 20px;
+    }
+    #footer-part .links .link .side{
+        flex-direction: column;
+        margin-left: -38px;
+    }
+    #footer-part .links .link .side .secound{
+        margin-left: 0;
+        margin-top: -15px;
+    }
+    #footer-part .links .link .side ul li{
+        margin-top: 15px;
+    }
+    #footer-part .security .secu h3{
+        font-size: 30px;
+    }
+
+    /* -----------------------
+    footer-part res css end
+    ------------------------ */
+
+    /* -----------------------
+    copy-part res css start
+    ------------------------ */
+    #copy-right h4{
+        font-size: 15px;
+    }
+
+
+    /* -----------------------
+    copy-part res css end
+    ------------------------ */
+}
+
+
+@media (min-width:768px) and (max-width:991px) {
+    .title h3{
+        font-size: 30px;
+    }
+    /* -----------------
+    nav res css start
+    ----------------- */
+    nav{
+        z-index: 9999;
+    }
+    nav img{
+        width: 70%;
+        margin-left: 20px;
+    }
+    nav button i{
+        color: #f6a100;
+        border: 2px solid #f6a100;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    nav ul{
+        background: #25024d;
+        margin-top: 15px;
+        height: 35vh;
+    }
+    nav ul li{
+        margin-right: 0;
+    }
+    nav ul li a{
+        margin-top: 5px;
+    }
+    nav .buttons{
+        position: relative;
+    }
+    nav .buttons a{
+        position: absolute;
+        bottom: 26px;
+        left: 50%;
+        padding: 15px 30px;
+    }
+    nav .buttons .btn1{
+        margin-left: 80px;
+    }
+    nav .buttons .btn2{
+        position: absolute;
+        bottom: 26px;
+        left: 165px;
+    }
+    
+/* -----------------
+    nav res css end
+    ----------------- */
+
+    /* -----------------
+    banner res css start
+    ------------------- */
+    #banner-part .img{
+        display: block;
+    }
+    #banner-part .text{
+        width: auto;
+    }
+    #banner-part .img img{
+        margin-left: -25px;
+    }
+    #banner-part .text h5{
+        margin-bottom: -15px;
+        margin-top: -20px ;
+    }
+    #banner-part .text h1{
+        font-size: 200px;
+    }
+    #banner-part .text p{
+        width: 108%;
+        margin-top: 0;
+    }
+    #banner-part .text a{
+        margin-left: 65px;
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    /* -----------------
+    banner res css end
+    ----------------- */
+
+
+     /* -----------------
+    related res css start
+    ----------------- */
+    
+    #related-part .item{
+        width: 100%;
+    }
+    #related-part .item2{
+        margin-bottom: 20px;
+    }
+    #related-part .img{
+        margin-bottom: 30px;
+        width: 100%;
+        margin-left: 15px;
+    }
+    #related-part .img .overlay h3{
+        font-size: 20px;
+    }
+    #related-part .img .overlay a{
+            font-size: 15px;
+            padding: 10px 25px;
+    }
+    #related-part .extra{
+        display: none !important;
+    }
+     /* -----------------
+    related res css end
+    ----------------- */
+
+
+    /* -----------------
+    spin res css start
+    ----------------- */
+    #spin-part{
+        padding: 60px 0;
+    }
+    #spin-part .title{
+        text-align: center;
+    }
+    #spin-part .spin{
+        display: none;
+    }
+    #spin-part .spin .title h3{
+        display: none;
+    }
+    #spin-part .small{
+        display: block;
+    }
+    #spin-part .small .title h3{
+        margin-bottom: 20px;
+    }
+    
+    #spin-part .spin .text p{
+        display: none;
+    }
+    #spin-part .small .text{
+        margin-top: -50px;
+    }
+    #spin-part .small .text p{
+        display: block;
+        width: auto;
+    }
+    #spin-part .spin .text a{
+        display: none;
+    }
+    #spin-part .small .text a{
+        font-size: 15px;
+        padding: 10px 20px;
+        position: absolute;
+        bottom: 25px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+    /* -----------------
+    spin res css end
+    ----------------- */
+
+
+    /* -----------------
+    card res css start
+    ----------------- */
+    #cardeffect-part{
+        padding-top: 60px;
+        padding-bottom: 100px;
+    }
+    #cardeffect-part .title{
+        text-align: center;
+    }
+    #cardeffect-part .title h3{
+        margin-bottom: 30px;
+    }
+    #cardeffect-part .text p{
+        width: auto;
+        text-align: center;
+        display: block;
+    }
+    #cardeffect-part .text .dekha{
+        display: none;
+    }
+    #cardeffect-part .text a{
+        font-size: 15px;
+        padding: 10px 20px;
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+    #cardeffect-part .box .playcard{
+        width: 95%;
+        height: 95%;
+        position: absolute;
+        top: 10%;
+        left: 45%;
+    }
+    /* -----------------
+    card res css end
+    ----------------- */
+
+    /* -----------------
+    price res css start
+    ----------------- */
+    #pricing-part{
+        padding: 70px 0;
+    }
+    #pricing-part .title h3{
+        margin-bottom: -10px;
+    }
+    #pricing-part .plan-item{
+        margin-top: 75px;
+        margin-left: 15px;
+        width: 90%;
+    }
+    #pricing-part .plan-item .head{
+        font-size: 15px;
+        padding: 10px 0;
+        
+    }
+    #pricing-part .plan-item .top{
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+    #pricing-part .plan-item .top h3{
+        font-size: 25px;
+    }
+    #pricing-part .plan-item .top h4{
+        font-size: 40px;
+        margin-top: 0;
+    }
+    #pricing-part .plan-item .top p{
+        font-size: 13px;
+    }
+    #pricing-part .plan-item .bottom{
+        padding-bottom: 20px;
+    }
+    #pricing-part .plan-item .bottom ul li{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    #pricing-part .plan-item .bottom a{
+        font-size: 15px;
+        padding: 10px 20px;
+        left: 20%;
+    }
+    #pricing-part .ja{
+        display: none;
+    }
+    /* -----------------
+    price res css end
+    ----------------- */
+
+
+    /* --------------------
+    boot-part res css start
+    ---------------------- */
+    #boot-part .left .title h3{
+        font-size: 30px;
+        margin-left: 15px;
+    }
+    #boot-part .acordian-part .card{
+        border: none;
+    }
+    #boot-part .acordian-part .accordion .card button h4{
+        font-size: 16px;
+    }
+    #boot-part .acordian-part .card button h4 i{
+        margin-left: 150px;
+    }
+    #boot-part .acordian-part .card button h4 .d2{
+        margin-left: 91px;
+    }
+    #boot-part .acordian-part .card button h4 .d3{
+        margin-left: 197px;
+    }
+    #boot-part .acordian-part .card p{
+        font-size: 16px;
+        width: 73%;
+    }
+    #boot-part .left::before{
+        left: 3%;
+    }
+    #boot-part .right .title h3{
+        font-size: 30px;
+        
+    }
+    #boot-part .right::before{
+        top: 7%;
+    }
+    #boot-part .right .counter-part h5{
+        font-size: 18px;
+        position: absolute;
+        top: 38px;
+        left: 0;
+    }
+    #boot-part .right .counter-part .count .time{
+        font-size: 20px;
+        padding: 15px;
+        margin: 20px 20px 0 5px;
+        
+    }
+    #boot-part .right .scroll-part p{
+        font-size: 13px;
+    }
+    #boot-part .right .scroll-part .img{
+        margin-left: 50px;
+        margin-top: -17px;
+    }
+    #boot-part .right .scroll-part .doller p{
+        margin-top: -18px;
+    }
+    /* --------------------
+    boot-part res css end
+    ---------------------- */
+
+    /* --------------------
+    form-part res css start
+    ---------------------- */
+    #form-part h3{
+        margin-left: 0;
+        font-size: 28px;
+    }
+    #form-part form .mail{
+        width: 95%;
+        padding: 5px 0 5px 10px;
+    }
+    #form-part form i{
+        top: 64px;
+        right: 27px;
+    }
+    #form-part form a::after{
+        top: 55px;
+        right: 50px;
+        height: 39%;
+    }
+    #form-part .right .margin{
+        padding: 0;
+    }
+    #form-part .img .pay{
+        margin-left: -12px;
+    }
+    #form-part .img img{
+        margin-left: 20px;
+    }
+    /* --------------------
+    form-part res css end
+    ---------------------- */
+
+    /* -----------------------
+    footer-part res css start
+    ------------------------- */
+    #footer-part .about .text h3{
+        font-size: 30px;
+    }
+    #footer-part .about .text p{
+        width: 100%;
+    }
+    #footer-part .about .icons i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    #footer-part .links .link h3{
+        font-size: 28px;
+        margin-left: -40px;
+        margin-top: 20px;
+    }
+    #footer-part .links .link .side{
+        margin-left: -38px;
+    }
+    #footer-part .links .link .side .secound{
+        margin-top: -4px;
+    }
+    #footer-part .links .link .side ul li{
+        margin-top: 15px;
+    }
+    #footer-part .security .secu h3{
+        font-size: 30px;
+    }
+
+    /* -----------------------
+    footer-part res css end
+    ------------------------ */
+
+    /* -----------------------
+    copy-part res css start
+    ------------------------ */
+    #copy-right h4{
+        font-size: 15px;
+    }
+
+
+    /* -----------------------
+    copy-part res css end
+    ------------------------ */
+}
+
+
+@media (min-width:992px) and (max-width:1199px) {
+    .title h3{
+        font-size: 35px;
+    }
+    /* -----------------
+    nav res css start
+    ----------------- */
+    nav{
+        z-index: 9999;
+    }
+    nav img{
+        width: 90%;
+        margin-left: 20px;
+    }
+    nav button i{
+        display: none;
+    }
+    
+    nav{
+        position: absolute !important;
+        top: 0;
+        left: 0;
+        padding: 0 !important;
+        width: 100%;
+    }
+    nav .navbar-brand{
+        padding: 0;
+    }
+    nav ul li{
+        display: flex;
+        align-self: center;
+        margin-right: 20px;
+    }
+    nav ul li a{
+        display: inline-block;
+        font-family: 'Nunito', sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+        color: #944bff;
+        margin-top: 30px;
+        transition: .4s;
+    }
+    nav ul .active a{
+        color: #ff39dc;
+    }
+    nav ul li a:hover{
+        color: #ff39dc;
+    }
+    nav .buttons a{
+        display: inline-block;
+        font-family: 'Anton', sans-serif;
+        font-size: 20px;
+        color: #fff;
+        font-weight: 400;
+        background-image: linear-gradient(#944bff, #6016cf);
+        padding: 10px 20px;
+        border-radius: 5px;
+        margin-right: 8px;
+        text-shadow: 4px 4px 2px rgb(51, 49, 63);
+        box-shadow: 0px 6px #3a0090;
+        margin-top: 23px;
+        transition: .4s;
+    }
+    nav .buttons .btn1{
+        margin-left: 40px;
+    }
+    nav .buttons a:hover{
+        background-image: linear-gradient(#f533d2, #b20890);
+        box-shadow: 0px 6px #661355;
+    }
+    
+/* -----------------
+    nav res css end
+    ----------------- */
+
+    /* -----------------
+    banner res css start
+    ------------------- */
+    #banner-part .img{
+        display: block;
+    }
+    #banner-part .text{
+        width: auto;
+    }
+    #banner-part .img img{
+        margin-left: -25px;
+    }
+    #banner-part .text h5{
+        margin-bottom: -15px;
+        margin-top: -20px ;
+    }
+    #banner-part .text h1{
+        font-size: 270px;
+    }
+    #banner-part .text p{
+        width: 100%;
+        margin-top: -20px;
+    }
+    #banner-part .text a{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    /* -----------------
+    banner res css end
+    ----------------- */
+
+
+     /* -----------------
+    related res css start
+    ----------------- */
+    
+    #related-part .item{
+        width: 100%;
+    }
+    #related-part .item2{
+        margin-bottom: 20px;
+    }
+    #related-part .img{
+        margin-bottom: 30px;
+        width: 100%;
+        margin-left: 15px;
+    }
+    #related-part .img .overlay h3{
+        font-size: 20px;
+    }
+    #related-part .img .overlay a{
+            font-size: 15px;
+            padding: 10px 25px;
+    }
+    #related-part .extra{
+        display: none;
+    }
+     /* -----------------
+    related res css end
+    ----------------- */
+
+
+    /* -----------------
+    spin res css start
+    ----------------- */
+    #spin-part{
+        padding: 60px 0;
+    }
+    #spin-part .title{
+        text-align: center;
+    }
+    #spin-part .spin{
+        display: block;
+    }
+    #spin-part .spin .title h3{
+        display: block;
+    }
+    #spin-part .small{
+        display: none;
+    }
+    #spin-part .small .title h3{
+        margin-bottom: 20px;
+    }
+    
+    #spin-part .spin .text p{
+        display: block;
+        width: auto;
+    }
+    #spin-part .small .text{
+        margin-top: -50px;
+    }
+    #spin-part .small .text p{
+        display: none;
+    }
+    #spin-part .spin .text a{
+        display: inline-block;
+    }
+    
+    /* -----------------
+    spin res css end
+    ----------------- */
+
+
+    /* -----------------
+    card res css start
+    ----------------- */
+    #cardeffect-part{
+        padding-top: 60px;
+        padding-bottom: 100px;
+    }
+    #cardeffect-part .title{
+        text-align: center;
+    }
+    #cardeffect-part .title h3{
+        margin-bottom: 30px;
+    }
+    #cardeffect-part .text p{
+        width: auto;
+        text-align: center;
+        display: block;
+    }
+    #cardeffect-part .text .dekha{
+        display: none;
+    }
+    #cardeffect-part .text a{
+        display: inline-block;
+        font-size: 20px;
+        padding: 15px 30px;
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+        
+    }
+    #cardeffect-part .box .playcard{
+        width: 95%;
+        height: 95%;
+        position: absolute;
+        top: 10%;
+        left: 45%;
+    }
+    /* -----------------
+    card res css end
+    ----------------- */
+
+    /* -----------------
+    price res css start
+    ----------------- */
+    #pricing-part{
+        padding-top: 70px;
+        padding-bottom: 90px;
+    }
+    #pricing-part .title h3{
+        margin-bottom: -10px;
+    }
+    #pricing-part .plan-item{
+        margin-top: 75px;
+        margin-left: 15px;
+        width: 90%;
+    }
+    #pricing-part .plan-item .head{
+        font-size: 15px;
+        padding: 10px 0;
+        
+    }
+    #pricing-part .plan-item .top{
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+    #pricing-part .plan-item .top h3{
+        font-size: 25px;
+    }
+    #pricing-part .plan-item .top h4{
+        font-size: 40px;
+        margin-top: 0;
+    }
+    #pricing-part .plan-item .top p{
+        font-size: 13px;
+    }
+    #pricing-part .plan-item .bottom{
+        padding-bottom: 20px;
+    }
+    #pricing-part .plan-item .bottom ul li{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    #pricing-part .plan-item .bottom a{
+        font-size: 20px;
+        padding: 15px 30px;
+        left: 21%;
+    }
+    #pricing-part .ja{
+        display: none;
+    }
+    /* -----------------
+    price res css end
+    ----------------- */
+
+
+    /* --------------------
+    boot-part res css start
+    ---------------------- */
+    #boot-part .left .title h3{
+        font-size: 30px;
+        margin-left: 15px;
+    }
+    #boot-part .acordian-part .card{
+        border: block;
+    }
+    #boot-part .acordian-part .accordion .card button h4{
+        font-size: 15px;
+    }
+    #boot-part .acordian-part .card button h4 i{
+        margin-left: 47px;
+    }
+    #boot-part .acordian-part .card button h4 .d2{
+        margin-left: 4px;
+    }
+    #boot-part .acordian-part .card button h4 .d3{
+        margin-left: 104px;
+    }
+    #boot-part .acordian-part .card p{
+        font-size: 14px;
+        width: 100%;
+    }
+    #boot-part .left::before{
+        left: 3%;
+    }
+    #boot-part .right .title h3{
+        font-size: 30px;
+        
+    }
+    #boot-part .right::before{
+        top: 51px;
+    }
+    #boot-part .right .counter-part h5{
+        font-size: 18px;
+        position: absolute;
+        top: 38px;
+        left: 0;
+    }
+    #boot-part .right .counter-part .count .time{
+        font-size: 20px;
+        padding: 15px;
+        margin: 20px 20px 0 5px;
+        
+    }
+    #boot-part .right .scroll-part .img{
+        display: flex;
+        justify-content: center;
+    }
+    #boot-part .right .scroll-part .doller p{
+        display: flex;
+        justify-content: flex-end;
+    }
+    /* --------------------
+    boot-part res css end
+    ---------------------- */
+
+    /* --------------------
+    form-part res css start
+    ---------------------- */
+    #form-part h3{
+        margin-left: 0;
+        font-size: 28px;
+    }
+    #form-part form .mail{
+        width: 95%;
+        padding: 5px 0 5px 10px;
+    }
+    #form-part form i{
+        top: 64px;
+        right: 27px;
+    }
+    #form-part form a::after{
+        top: 55px;
+        right: 50px;
+        height: 39%;
+    }
+    #form-part .right .margin{
+        padding: 0;
+    }
+    #form-part .img .pay{
+        margin-left: -12px;
+    }
+    #form-part .img img{
+        margin-left: 20px;
+    }
+    /* --------------------
+    form-part res css end
+    ---------------------- */
+
+    /* -----------------------
+    footer-part res css start
+    ------------------------- */
+    #footer-part .about .text h3{
+        font-size: 30px;
+    }
+    #footer-part .about .text p{
+        width: 100%;
+    }
+    #footer-part .about .icons i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    #footer-part .links .link h3{
+        font-size: 28px;
+        margin-left: -40px;
+        margin-top: 20px;
+    }
+    #footer-part .links .link .side{
+        margin-left: -38px;
+    }
+    #footer-part .links .link .side .secound{
+        margin-top: -4px;
+    }
+    #footer-part .links .link .side ul li{
+        margin-top: 15px;
+    }
+    #footer-part .security .secu h3{
+        font-size: 30px;
+    }
+
+    /* -----------------------
+    footer-part res css end
+    ------------------------ */
+
+    /* -----------------------
+    copy-part res css start
+    ------------------------ */
+    #copy-right h4{
+        font-size: 15px;
+    }
+
+
+    /* -----------------------
+    copy-part res css end
+    ------------------------ */
+}
